@@ -1,0 +1,1 @@
+This is a text file. Encrypt this file with -e.
